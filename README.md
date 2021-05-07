@@ -43,7 +43,7 @@ Utilizado jest como forma de validar a conclusão do desafio.
 ## Instalando
 
 ```bash
-https://github.com/Lissone/toDo-react.git
+git clone "https://github.com/Lissone/toDo-react.git"
 cd toDo-react
 yarn
 #or
